@@ -1,2 +1,2 @@
 # aula-git-github
-Aprendendo versionamento com git e github.
+Aprendendo sobre versionamento com git e github.
